@@ -1,0 +1,30 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "your invocation name",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "FindMore",
+                    "slots": [],
+                    "samples": [
+                        "(how|where) (i can|can i) find (|out) more (about|on) (voice|voice tech|voice technology|alexa)",
+                        "(how|where) (i can|can i) find (|out) more"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}

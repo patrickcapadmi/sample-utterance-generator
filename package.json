@@ -1,0 +1,16 @@
+{
+  "name": "utterance-expander",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generator.js",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "intent-utterance-expander": "^0.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
